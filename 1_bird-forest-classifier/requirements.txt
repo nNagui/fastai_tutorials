@@ -1,0 +1,19 @@
+# ============================================================
+# Bird vs. Forest Image Classifier
+# ============================================================
+#
+# Install with:
+#
+#     pip install -r requirements.txt
+#
+# ============================================================
+
+# Image search
+ddgs==9.15.0
+
+# Deep learning and computer vision
+fastai==2.8.8
+
+# FastAI ecosystem dependencies used by the project
+fastcore==2.2.13
+fastdownload==0.0.7
